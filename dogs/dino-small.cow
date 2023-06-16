@@ -1,9 +1,15 @@
----
-:text_position: :right
-:dog: |2
+ ##
+ ## dino-small
+ ## (c) PapaJ at [retrojunkie.com](http://www.retrojunkie.com/asciiart/animals/dinos.htm) 
+ ##
+ $the_cow = <<EOC;
+    $thoughts
+     $thoughts
                      __
-                    / _) /
+                    / _)
            _.----._/ /
          /          /
   .--__/  (  | (  |'
    '-__..-'|_|--|_|
+
+EOC

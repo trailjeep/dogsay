@@ -1,9 +1,14 @@
----
-:text_position: :top
-:dog: |2
-            \
+##
+## dog-small
+## from [Ascii-art.de](http://www.ascii-art.de/ascii/def/dogs.txt)
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
             __
-   \ ______/ V`-,
+   ⑊ ______/ V`-,
     }        /~~
    /_)^ --,r'
   |b      |b
+
+EOC

@@ -1,13 +1,19 @@
----
-:text_position: :top
-:dog: |2
-  \   _
-   \ /  \
-    /|oo \
+##
+## dog-sit
+## from [AsciiWorld.com](http://www.asciiworld.com/-Dogs-.html)
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+      _
+     /  ⑊
+    /|oo ⑊
    (_|  /_)
-     `@/  \
-     |     \     _
-      \||   \   //
-      |||\ /  \//
-    _//|| _\   /
+     `@/  ⑊
+     |     ⑊     _
+      ⑊||   ⑊   //
+      |||⑊ /  ⑊//
+    _//|| _⑊   /
    (_/(_|(____/
+
+EOC

@@ -1,9 +1,14 @@
----
-:text_position: :top
-:dog: |2
-             \
+##
+## dog-run
+## from [AsciiWorld.com](http://www.asciiworld.com/-Dogs-.html)
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
                .--~~,__
   :-....,-------`~~'._.'
    `-,,,  ,_      ;'~U'
     _,-' ,'`-__; '--.
    (_/'~~      ''''(;
+
+EOC
